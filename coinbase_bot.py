@@ -1,7 +1,7 @@
-# coinbase bot by Daniel Saisani
+# coinbase bot by dxnielks
 import coinbase
 from coinbase.wallet.client import Client
-from coinbaseKeys import coinbase_API_key, coinbase_API_secret
+from coinbase_keys import coinbase_API_key, coinbase_API_secret
 from coinbase.wallet.error import AuthenticationError
 print("Hello Coinbase World!")
 try:

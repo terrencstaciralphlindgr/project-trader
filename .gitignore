@@ -2,7 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,visualstudiocode
 
 __pycache__
-coinbaseKeys.py
+coinbase_keys.py
 venv
 
 ### macOS ###

@@ -1,0 +1,1 @@
+In order to use this service, you must have a coinbase API key and secret which should be in a python file index: "coinbase_keys.py"
