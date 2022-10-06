@@ -5,6 +5,7 @@ __pycache__
 coinbase_keys.py
 binance_keys.py
 venv
+.vscode
 
 ### macOS ###
 # General
