@@ -4,6 +4,7 @@
 __pycache__
 coinbase_keys.py
 binance_keys.py
+kraken_keys.py
 venv
 .vscode
 info.txt
